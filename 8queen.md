@@ -1,0 +1,1 @@
+8 queens problem refers to placing 8 queens in a standard chess board without any 2 queens able to attack each other.It requires no more than 1 queen in a specific row,column,or diagonal.Here use the simplest algorithm,which is enumeration.
