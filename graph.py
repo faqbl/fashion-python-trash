@@ -1,5 +1,5 @@
 '''
-basic graph generation&traversal algorithm
+basic graph generation&traversal algorithms
 '''
 from collections import defaultdict
 from collections import deque
