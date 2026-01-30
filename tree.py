@@ -1,5 +1,5 @@
 '''
-basic tree generation&traversal methods
+basic tree generation&traversal algorithms
 '''
 class Tree:#class definition
     def __init__(self,data):
