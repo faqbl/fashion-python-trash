@@ -221,6 +221,11 @@ def evaluate(board,depth,computer_round):#using Minimax algorithm
         return best
 
 '''
+the above evaluate function uses the Minimax algorithm
+here is a more efficient algorithm called alpha-beta pruning below
+'''
+
+'''
 def evaluate(board,depth,computer_round,alpha=-math.inf,beta=math.inf):
     result = check_winner()
     if result==computer:
